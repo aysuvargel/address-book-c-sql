@@ -1,0 +1,28 @@
+C:\Users\Win_7\Desktop\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe.config
+C:\Users\Win_7\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.Form1.resources
+C:\Users\Win_7\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.csproj.GenerateResource.Cache
+C:\Users\Win_7\Desktop\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe
+C:\Users\Win_7\Desktop\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.pdb
+C:\Users\Win_7\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.Properties.Resources.resources
+C:\Users\Win_7\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.exe
+C:\Users\Win_7\Desktop\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.pdb
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\13. hafta 1ö\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe.config
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\13. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.exe
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\13. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.pdb
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\13. hafta 1ö\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\13. hafta 1ö\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.pdb
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\13. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.Form1.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\13. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.Properties.Resources.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\13. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.csproj.GenerateResource.Cache
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\13. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.YeniKayit.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe.config
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.exe
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.pdb
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.exe
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\bin\Debug\Adres Defteri.pdb
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.Form1.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.KayitGuncelle.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.Properties.Resources.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres_Defteri.YeniKayit.resources
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.csproj.GenerateResource.Cache
+D:\DERS DÖNEMLERİ\2020-2021 GÜZ\Görsel II\14. hafta 1ö\Adres Defteri\Adres Defteri\obj\Debug\Adres Defteri.csprojResolveAssemblyReference.cache
